@@ -1,5 +1,5 @@
 # Rocket's Trash Machine
-The main purpose of this app is to allow users to download 4chan thread images fast and effectivly then post them into a discord room.
+The main purpose of this app is to allow users to download 4chan thread images fast and effectivly then post them into a discord room. It also downloads copies of the pictures to the server directly (later on this will become a self host option to post into discord)
 
 ## Setup
 First you need to make a .env file. Copy the example and enter your key.
