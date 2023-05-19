@@ -13,6 +13,8 @@ Next install the requirements with:
 Next all you have to do it run the bot and invite your bot to your server. 
 
 ## Bot use
+Run the bot with `ptyhon3 robust.py`
+
 After that just @ the bot and link it to your 4chan thread you want to scrape. 
 The bot will then scrape the thread and post all the images in the thread to the channel. 
 
